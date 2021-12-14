@@ -1,0 +1,7 @@
+Breakpoint 1 at 0x73c: file source/main.c, line 151.
+Note: automatically using hardware breakpoints for read-only addresses.
+======================================================
+Running all tests..."
+
+"Start PORTB: 0x01"..."0.3 second PORTB: 0x02"..."0.6 second PORTB: 0x04"..."0.9 second PORTB: 0x02"..."1.2 second PORTB: 0x01"..."1.5 second PORTB: 0x02"..."1.8 second + 1 press PORTB: 0x04"..."1.8 second + button release PORTB: 0x04"..."1.8 second + 2nd press PORTB: 0x04"..."1.8 second + 2nd release PORTB: 0x01"...======================================================
+Remote doesn't know how to detach
